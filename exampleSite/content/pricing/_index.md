@@ -1,6 +1,6 @@
 ---
 title: Pricing
-subtitle: of services
+subtitle: ''
 description: This is meta description
 basic:
   name: Basic Plan
